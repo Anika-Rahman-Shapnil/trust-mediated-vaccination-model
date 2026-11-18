@@ -51,4 +51,4 @@ The final heatmap convergence analysis uses tighter numerical tolerances than th
 
 ## Code availability
 
-The repository is being prepared to support reproducibility of the manuscript's numerical analyses.
+This repository provides Python implementations of the epidemic model, numerical simulations, equilibrium and bifurcation analyses, and sensitivity calculations presented in the accompanying manuscript. Instructions and dependencies are provided to facilitate independent verification of the numerical results.
