@@ -1,0 +1,10 @@
+
+cff-version: 1.2.0
+message: "If you use this code in your research, please cite this software repository."
+type: software
+title: "Trust-Mediated Vaccination Model: Numerical Simulations and Bifurcation Analysis"
+authors:
+  - family-names: "Shapnil"
+    given-names: "Anika Rahman"
+repository-code: "https://github.com/Anika-Rahman-Shapnil/trust-mediated-vaccination-model"
+license: MIT
